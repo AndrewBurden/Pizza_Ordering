@@ -1,0 +1,12 @@
+c:\users\changk\documents\visual studio 2013\Projects\StockManagement\StockManagement\bin\Debug\StockManagement.exe.config
+c:\users\changk\documents\visual studio 2013\Projects\StockManagement\StockManagement\bin\Debug\StockManagement.exe
+c:\users\changk\documents\visual studio 2013\Projects\StockManagement\StockManagement\bin\Debug\StockManagement.pdb
+c:\users\changk\documents\visual studio 2013\Projects\StockManagement\StockManagement\obj\Debug\StockManagement.csprojResolveAssemblyReference.cache
+c:\users\changk\documents\visual studio 2013\Projects\StockManagement\StockManagement\obj\Debug\StockManagement.Form1.resources
+c:\users\changk\documents\visual studio 2013\Projects\StockManagement\StockManagement\obj\Debug\StockManagement.Properties.Resources.resources
+c:\users\changk\documents\visual studio 2013\Projects\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.GenerateResource.Cache
+c:\users\changk\documents\visual studio 2013\Projects\StockManagement\StockManagement\obj\Debug\StockManagement.exe
+c:\users\changk\documents\visual studio 2013\Projects\StockManagement\StockManagement\obj\Debug\StockManagement.pdb
+C:\Users\andyb\Downloads\StockManagement(1)\StockManagement\StockManagement\bin\Debug\StockManagement.exe.config
+C:\Users\andyb\Downloads\StockManagement(1)\StockManagement\StockManagement\obj\Debug\StockManagement.exe
+C:\Users\andyb\Downloads\StockManagement(1)\StockManagement\StockManagement\obj\Debug\StockManagement.pdb
